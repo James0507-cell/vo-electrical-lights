@@ -1,0 +1,509 @@
+{
+  "meta": {
+    "note": "Curated from photographs downloaded from the company's public Facebook page on 2026-10-26. Photo ids are the Facebook photo ids; original files live in assets-raw/photos/.",
+    "totalDownloaded": 156
+  },
+  "projects": [
+    {
+      "slug": "365kw-rooftop-solar-lgu",
+      "title": "365 kW Rooftop Solar",
+      "category": "Government",
+      "tags": [
+        "Government",
+        "Solar"
+      ],
+      "year": 2025,
+      "date": "2025-11-02",
+      "location": null,
+      "capacity": "365 kW",
+      "client": null,
+      "summary": "A 365 kW rooftop system delivered for a local government unit, with training for the end-users who maintain it.",
+      "description": "Design, supply, and installation of a 365 kW rooftop solar system for a local government unit. The engagement closed with a handover session, giving the LGU's own staff the knowledge to look after the system day to day.",
+      "cover": "871990058489317",
+      "photos": [
+        "871987788489544",
+        "871987785156211",
+        "871989951822661",
+        "871990058489317"
+      ],
+      "featured": true,
+      "sourceCaption": "365kW of clean energy, fueling a sustainable future.",
+      "sourceNote": "Caption and photos from the company's Facebook page (2–22 Nov 2025). End-user training confirmed in a separate post."
+    },
+    {
+      "slug": "commercial-rooftop-arrays",
+      "title": "Hundreds of Panels",
+      "category": "Commercial",
+      "tags": [
+        "Commercial",
+        "Solar"
+      ],
+      "year": 2025,
+      "date": "2025-11-08",
+      "location": null,
+      "capacity": null,
+      "client": null,
+      "summary": "Commercial rooftops filled with panels — aerial views of arrays being installed, row after row.",
+      "description": "A large commercial rollout photographed from above: panels laid across factory and warehouse roofs, with site crews working across multiple buildings.",
+      "cover": "876920137996309",
+      "photos": [
+        "876920137996309",
+        "876920067996316",
+        "876920177996305",
+        "876920077996315",
+        "876920124662977"
+      ],
+      "featured": true,
+      "sourceCaption": "Hundreds of solar panels being installed, ready to convert sunlight into clean electricity.",
+      "sourceNote": "Company Facebook post, 8 November 2025."
+    },
+    {
+      "slug": "gold-refinery-solar",
+      "title": "Gold Refinery Solar",
+      "category": "Industrial",
+      "tags": [
+        "Industrial",
+        "Solar"
+      ],
+      "year": 2025,
+      "date": "2025-11-09",
+      "location": null,
+      "capacity": null,
+      "client": null,
+      "summary": "A solar upgrade for a gold refinery, from delivery and installation to a clean, completed handover.",
+      "description": "Panels delivered to site and installed as a solar upgrade for a gold refinery. The client's engineer trusted our team with the work from supply through installation.",
+      "cover": "877670651254591",
+      "photos": [
+        "877670651254591",
+        "877671517921171"
+      ],
+      "featured": true,
+      "sourceCaption": "Installation done. Thank you Engineer, for the trust! ... Sun-powered success at the gold refinery.",
+      "sourceNote": "Company Facebook post, 9 November 2025."
+    },
+    {
+      "slug": "industrial-solar-set-up",
+      "title": "Industrial Solar Set-Up",
+      "category": "Industrial",
+      "tags": [
+        "Industrial",
+        "Solar"
+      ],
+      "year": 2025,
+      "date": "2025-11-02",
+      "location": null,
+      "capacity": null,
+      "client": null,
+      "summary": "An elevated industrial array installed on open ground, wired and tested by our own crew.",
+      "description": "Another industrial solar set-up: panels on raised steel mounts, installed on site with the crew working through the array.",
+      "cover": "875298921491764",
+      "photos": [
+        "875298921491764",
+        "875298931491763",
+        "875299051491751",
+        "875298988158424"
+      ],
+      "featured": false,
+      "sourceCaption": "Another installation of INDUSTRIAL SOLAR SET-UP. From sunlight to savings.",
+      "sourceNote": "Company Facebook post, 2 November 2025."
+    },
+    {
+      "slug": "ground-mounted-solar",
+      "title": "Ground-Mounted Array",
+      "category": "Commercial",
+      "tags": [
+        "Commercial",
+        "Solar"
+      ],
+      "year": 2025,
+      "date": "2025-11-05",
+      "location": null,
+      "capacity": null,
+      "client": null,
+      "summary": "Ground-mounted solar, built by the team that shows up — in boots, hard hats, and hi-vis.",
+      "description": "A ground-mounted installation photographed with the crew on site. Elevated racking, open ground, and a team that works in full protective gear.",
+      "cover": "874640348224288",
+      "photos": [
+        "874640348224288",
+        "874640571557599"
+      ],
+      "featured": false,
+      "sourceCaption": "Ground Mounted Solar Installation. The faces behind our successful solar installations!",
+      "sourceNote": "Company Facebook post, 5 November 2025."
+    },
+    {
+      "slug": "home-solar",
+      "title": "Home Solar",
+      "category": "Residential",
+      "tags": [
+        "Residential",
+        "Solar"
+      ],
+      "year": 2025,
+      "date": "2025-11-08",
+      "location": null,
+      "capacity": null,
+      "client": null,
+      "summary": "Another home empowered by the sun — panels installed on a residential roof.",
+      "description": "A residential rooftop array, installed for a household ready to generate its own power.",
+      "cover": "876890734665916",
+      "photos": [
+        "876890734665916"
+      ],
+      "featured": false,
+      "sourceCaption": "Another home empowered by the sun! Enjoy the endless benefits of nature's power.",
+      "sourceNote": "Company Facebook post, 8 November 2025."
+    },
+    {
+      "slug": "solar-powered-irrigation",
+      "title": "Solar-Powered Irrigation",
+      "category": "Agriculture",
+      "tags": [
+        "Agriculture",
+        "Solar"
+      ],
+      "year": 2025,
+      "date": "2025-11-02",
+      "location": null,
+      "capacity": null,
+      "client": null,
+      "summary": "An irrigation system driven by sunlight — installed, tested, and commissioned on site.",
+      "description": "Solar-powered irrigation installation, completed with pump testing and commissioning so the system is ready for the field.",
+      "cover": "871972201824436",
+      "photos": [
+        "872004798487843",
+        "871972201824436",
+        "872005808487742"
+      ],
+      "featured": true,
+      "sourceCaption": "Solar-Powered Irrigation System Installation Complete! Let the sun work for you!",
+      "sourceNote": "Company Facebook posts, 2 and 4 November 2025."
+    },
+    {
+      "slug": "eco-vo-300w-street-lights",
+      "title": "ECO V.O 300 W Street Lights",
+      "category": "Supply & Delivery",
+      "tags": [
+        "Supply",
+        "Street Lighting"
+      ],
+      "year": 2025,
+      "date": "2025-11-05",
+      "location": null,
+      "capacity": null,
+      "client": null,
+      "summary": "ECO V.O 300 W solar street lights, fresh from the factory and ready for delivery.",
+      "description": "A batch of our own ECO V.O 300 W solar street lights prepared for a government client — supplied, boxed, and delivered.",
+      "cover": "874427258245597",
+      "photos": [
+        "874428914912098",
+        "874428724912117",
+        "874428934912096",
+        "874427258245597"
+      ],
+      "featured": true,
+      "sourceCaption": "Fresh from factory and ready for delivery. ECO V.O 300W Solar Street Lights.",
+      "sourceNote": "Company Facebook post, 5 November 2025."
+    },
+    {
+      "slug": "solar-street-lights-government",
+      "title": "300 W Street Light Rollout",
+      "category": "Street Lighting",
+      "tags": [
+        "Street Lighting",
+        "Government",
+        "Supply"
+      ],
+      "year": 2023,
+      "date": "2023-09-02",
+      "location": null,
+      "capacity": null,
+      "client": "Government client",
+      "summary": "One hundred 300 W ECO V.O solar street lights, supplied to a government client.",
+      "description": "A hundred units of 300 W ECO V.O solar street lights supplied for a government street-lighting programme.",
+      "cover": "350046054017056",
+      "photos": [
+        "350046054017056",
+        "350046017350393",
+        "350046094017052"
+      ],
+      "featured": false,
+      "sourceCaption": "100pcs of 300W Eco V.O Solar Street Light for Government Client.",
+      "sourceNote": "Company Facebook post, 2 September 2023."
+    },
+    {
+      "slug": "ufo-solar-street-lights",
+      "title": "100-Unit UFO Street Lights",
+      "category": "Supply & Delivery",
+      "tags": [
+        "Supply",
+        "Street Lighting"
+      ],
+      "year": 2023,
+      "date": "2023-11-24",
+      "location": null,
+      "capacity": null,
+      "client": null,
+      "summary": "One hundred UFO-style solar street lights supplied and handed over to a client.",
+      "description": "A supply run of 100 UFO solar street lights, prepared and delivered for a client's street-lighting requirements.",
+      "cover": "394646936223634",
+      "photos": [
+        "394646936223634",
+        "394646966223631"
+      ],
+      "featured": false,
+      "sourceCaption": "100pcs UFO Solar Street Lights. Thank you Client for Trusting V.O.",
+      "sourceNote": "Company Facebook post, 24 November 2023."
+    },
+    {
+      "slug": "street-light-poles",
+      "title": "Street Light Poles, 6 m & 8 m",
+      "category": "Supply & Delivery",
+      "tags": [
+        "Supply",
+        "Street Lighting"
+      ],
+      "year": 2024,
+      "date": "2024-10-07",
+      "location": null,
+      "capacity": null,
+      "client": null,
+      "summary": "Hot-dip galvanised, powder-coated street light poles — 6 m and 8 m, delivered nationwide.",
+      "description": "Street light poles in silver grey: hot-dip galvanised and powder-coated, available in 6 m and 8 m lengths and delivered nationwide.",
+      "cover": "582435230778136",
+      "photos": [
+        "582435230778136",
+        "582435334111459",
+        "582435124111480",
+        "582435504111442"
+      ],
+      "featured": false,
+      "sourceCaption": "We supply Street Light Pole Hot-dip Galvanized Powder Coating Silver Grey 6m & 8m Available. WE DELIVER NATIONWIDE.",
+      "sourceNote": "Company Facebook post, 7 October 2024."
+    },
+    {
+      "slug": "75kva-transformer-denr-r12",
+      "title": "75 kVA Transformer",
+      "category": "Electrical Works",
+      "tags": [
+        "Electrical Works",
+        "Government"
+      ],
+      "year": 2025,
+      "date": "2025-11-06",
+      "location": null,
+      "capacity": null,
+      "client": "DENR Region 12",
+      "summary": "A 75 kVA transformer installed, tested, and commissioned for DENR Region 12.",
+      "description": "Installation, testing, and commissioning of a new 75 kVA transformer for DENR Region 12, carried out by our electrical team.",
+      "cover": "875123634842626",
+      "photos": [
+        "875123634842626",
+        "875123768175946",
+        "875123661509290"
+      ],
+      "featured": false,
+      "sourceCaption": "The new 75kVA transformer has been successfully installed, tested, and commissioned ... Thank you DENR R12 for putting your trust in our company.",
+      "sourceNote": "Company Facebook post, 6 November 2025."
+    },
+    {
+      "slug": "cctv-maguindanao-police-station",
+      "title": "CCTV for a Police Station",
+      "category": "Electrical Works",
+      "tags": [
+        "Electrical Works",
+        "Government"
+      ],
+      "year": 2023,
+      "date": "2023-03-03",
+      "location": "Northern Maguindanao",
+      "capacity": null,
+      "client": "Police station",
+      "summary": "CCTV installation at the Northern Maguindanao Police Station.",
+      "description": "Surveillance cameras installed at the Northern Maguindanao Police Station — the kind of security work we take on alongside solar and electrical projects.",
+      "cover": "251850860503243",
+      "photos": [
+        "251850860503243",
+        "251850840503245",
+        "251850943836568"
+      ],
+      "featured": false,
+      "sourceCaption": "Done Installation CCTV in Northern Maguindanao Police Station.",
+      "sourceNote": "Company Facebook post, 3 March 2023."
+    },
+    {
+      "slug": "fdas-government-project",
+      "title": "FDAS Government Project",
+      "category": "Electrical Works",
+      "tags": [
+        "Electrical Works",
+        "Government"
+      ],
+      "year": 2023,
+      "date": "2023-09-18",
+      "location": null,
+      "capacity": null,
+      "client": "Government client",
+      "summary": "Fire detection and alarm system works for a government project.",
+      "description": "FDAS installation work for a government project — detection devices, wiring, and the panel work behind them.",
+      "cover": "358626473159014",
+      "photos": [
+        "358626473159014",
+        "358626376492357",
+        "358626403159021",
+        "358626436492351"
+      ],
+      "featured": false,
+      "sourceCaption": "Another FDAS government projects!! Thanks for entrusting Villanueva-Ong Electrical Lights Trading.",
+      "sourceNote": "Company Facebook post, 18 September 2023."
+    },
+    {
+      "slug": "led-wall-supply",
+      "title": "LED Wall Supply & Install",
+      "category": "Supply & Delivery",
+      "tags": [
+        "Supply",
+        "Electrical Works"
+      ],
+      "year": 2025,
+      "date": "2025-02-12",
+      "location": null,
+      "capacity": null,
+      "client": null,
+      "summary": "LED walls supplied and installed for events and venues.",
+      "description": "Supply and installation of LED walls for events — vibrant displays built and commissioned by our team.",
+      "cover": "669091785445813",
+      "photos": [
+        "669091785445813",
+        "669091745445817",
+        "583190064035986",
+        "583190100702649",
+        "583190174035975"
+      ],
+      "featured": false,
+      "sourceCaption": "Installation and Supply of LED WALL. As your trusted LED wall supplier, we bring your events to life with vibrant visuals.",
+      "sourceNote": "Company Facebook posts, 8 October 2024 and 12 February 2025."
+    },
+    {
+      "slug": "generator-sets-supply",
+      "title": "Generator Sets",
+      "category": "Supply & Delivery",
+      "tags": [
+        "Supply"
+      ],
+      "year": 2023,
+      "date": "2023-08-29",
+      "location": null,
+      "capacity": null,
+      "client": "Government client",
+      "summary": "Generator sets supplied for a government client.",
+      "description": "Supply of generator sets — part of the wider electrical inventory we keep for private and government projects.",
+      "cover": "348013334220328",
+      "photos": [
+        "348013334220328",
+        "348013307553664"
+      ],
+      "featured": false,
+      "sourceCaption": "We Also Supply all kinds of Generator Set. Thankyou Government Client for Trusting V.O.",
+      "sourceNote": "Company Facebook post, 29 August 2023."
+    },
+    {
+      "slug": "solar-road-studs",
+      "title": "Solar Road Studs",
+      "category": "Supply & Delivery",
+      "tags": [
+        "Supply",
+        "Street Lighting"
+      ],
+      "year": 2023,
+      "date": "2023-03-03",
+      "location": null,
+      "capacity": null,
+      "client": null,
+      "summary": "Solar road stud lights — the small hardware that keeps roads visible at night.",
+      "description": "Solar road stud lights supplied in quantity, with aluminium housings and built-in solar charging.",
+      "cover": "251899563831706",
+      "photos": [
+        "251899563831706",
+        "251899543831708",
+        "251899593831703",
+        "251899610498368",
+        "251899627165033"
+      ],
+      "featured": false,
+      "sourceCaption": "Solar Road Stud Light. We accept Private & Government project.",
+      "sourceNote": "Company Facebook post, 3 March 2023."
+    }
+  ],
+  "extras": {
+    "heroPoster": "876920137996309",
+    "og": "876920067996316",
+    "fieldStrip": [
+      "876920177996305",
+      "991287093226279",
+      "991287053226283",
+      "989792296709092",
+      "874640571557599",
+      "875298921491764",
+      "1073132751708379",
+      "872004798487843",
+      "888008063554183",
+      "582435230778136",
+      "875123634842626",
+      "876920124662977",
+      "989792430042412"
+    ],
+    "about": {
+      "team": "874640348224288",
+      "training": "888004830221173",
+      "trainingRoom": "888004876887835",
+      "expo": "990384979983157",
+      "portrait": "990385039983151",
+      "warehouse": "884970350524621",
+      "inverters": "884970287191294"
+    },
+    "services": {
+      "residential": "989792296709092",
+      "commercial": "876920137996309",
+      "industrial": "877670651254591",
+      "farms": "872004798487843",
+      "irrigation": "871972201824436",
+      "street": "1073132751708379",
+      "ground": "874640571557599"
+    },
+    "products": [
+      {
+        "id": "874428914912098",
+        "name": "ECO V.O 300 W solar street light"
+      },
+      {
+        "id": "308335834854745",
+        "name": "V.O solar street light"
+      },
+      {
+        "id": "308352391519756",
+        "name": "V.O solar light, LED face"
+      },
+      {
+        "id": "251899563831706",
+        "name": "Solar road stud"
+      },
+      {
+        "id": "582435230778136",
+        "name": "Street light poles"
+      },
+      {
+        "id": "884970350524621",
+        "name": "Bulk stock, warehouse"
+      },
+      {
+        "id": "669091785445813",
+        "name": "LED wall"
+      },
+      {
+        "id": "348013334220328",
+        "name": "Generator set"
+      }
+    ]
+  }
+}

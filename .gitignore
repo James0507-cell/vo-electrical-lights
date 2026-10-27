@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+shots/
+assets-raw/
+.env*.local
+.env
+*.log
+.DS_Store
+tsconfig.tsbuildinfo
+next-env.d.ts
